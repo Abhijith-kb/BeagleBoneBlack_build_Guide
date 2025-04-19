@@ -5,7 +5,7 @@ This repository documents the complete process of building and booting U-Boot an
 ## Features
 
 - Step-by-step build and deployment instructions
-- Configuration files
+- Images
 - Troubleshooting and tips
 
 ## Directory Structure
