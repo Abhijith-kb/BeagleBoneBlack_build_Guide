@@ -20,8 +20,10 @@ This repository documents the complete process of building and booting U-Boot an
 3. Use provided scripts files as needed.
 
 ## References
-- Main building reference: https://forum.digikey.com/t/debian-getting-started-with-the-beaglebone-black/12967
-- Serial console:  https://www.youtube.com/watch?v=1a69sQZX3pQ
+
+*   **Main Building Reference:** DigiKey Electronics. (n.d.). *Debian getting started with the beaglebone black*. DigiKey Forum. [https://forum.digikey.com/t/debian-getting-started-with-the-beaglebone-black/12967](https://forum.digikey.com/t/debian-getting-started-with-the-beaglebone-black/12967)
+*   **Serial Console:** [Serial console]. YouTube, Retrieved from [https://www.youtube.com/watch?v=1a69sQZX3pQ](https://www.youtube.com/watch?v=1a69sQZX3pQ)
+
 
 
 ## Author
