@@ -40,7 +40,7 @@ This shows the contents of the U-Boot directory after building for BeagleBone Bl
 
 ## Image 2: Cross-Compiler Version
 
-![Screenshot from 2025-04-21 16-05-53](https://github.com/user-attachments/assets/72e66af2-1ba2-4ff9-8455-1bb2d101cd5a)
+![Screenshot from 2025-04-21 16-06-42](https://github.com/user-attachments/assets/960ef442-13bd-4535-8ec9-b11193173795)
 
 **Description:**  
 This screenshot shows the output of the command:
@@ -59,7 +59,7 @@ arm-linux-gnueabi-gcc --version
 
 ## Image 3: Kernel Build Output
 
-![Screenshot from 2025-04-21 16-06-42](https://github.com/user-attachments/assets/960ef442-13bd-4535-8ec9-b11193173795)
+![Screenshot from 2025-04-21 16-05-53](https://github.com/user-attachments/assets/72e66af2-1ba2-4ff9-8455-1bb2d101cd5a)
 
 **Description:**  
 This directory contains the output files generated after building the Linux kernel for BeagleBone Black.
