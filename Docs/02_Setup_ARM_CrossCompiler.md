@@ -10,9 +10,11 @@ sudo apt install gcc-arm-linux-gnueabi
 
 Download and extract a recent toolchain if needed:
 
+'''bash
 wget -c https://mirrors.edge.kernel.org/pub/tools/crosstool/files/bin/x86_64/11.3.0/x86_64-gcc-11.3.0-nolibc-arm-linux-gnueabi.tar.xz
 tar -xf x86_64-gcc-11.3.0-nolibc-arm-linux-gnueabi.tar.xz
 export CROSS_COMPILE=$(pwd)/gcc-11.3.0-nolibc/arm-linux-gnueabi/bin/arm-linux-gnueabi-
+'''
 
 ## Verify the Toolchain
 
