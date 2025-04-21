@@ -45,7 +45,7 @@ This shows the contents of the U-Boot directory after building for BeagleBone Bl
 **Description:**  
 This screenshot shows the output of the command:
 
-arm-linux-gnueabi-gcc --version
+${CC}gcc --version ( or arm-linux-gnueabi-gcc --version)
 
 **Details:**
 
