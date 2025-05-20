@@ -103,19 +103,15 @@ This repository documents the complete process of building and booting U-Boot an
 
 1.2 **Bootloader (Das U-Boot):**  
 - Official U-Boot Site  
-- GitHub Source
+- GitHub Source: https://github.com/u-boot/u-boot
 
 1.3 **Linux Kernel:**  
-- Mainline Kernel Source  
+- Mainline Kernel Source (git: https://github.com/RobertCNelson/bb-kernel)  
 - BeagleBone Black-specific scripts: `bb-kernel`
 
 1.4 **ARM Root Filesystem:**  
 - Debian ARM  
-- Minimal Debian ARM rootfs archives
-
-1.5 **Learning Resources:**  
-- [Fun with Beagle – Exploring the GPU](#)  
-- [Fun with Beagle – GPU Video](#)
+- Minimal Debian ARM rootfs archives: https://rcn-ee.com/rootfs/eewiki/minfs/
 
 ### 2. Boot Process Details
 
